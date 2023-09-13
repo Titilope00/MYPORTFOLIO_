@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    box-sizing: border-box;
+    font-size: 20px;
+    
+}
+.section{
+    background-image: url(../images/hji.webp);
+    height: 70vh;
+    background-size: cover;
+}
+.are{
+    display: flex;
+}
+.ar{
+    margin-left: 30px;
+
+    margin-top: 130px;
+}
+.a{
+    margin-right: 6px;
+    font-size: 24px;
+}
+.tn{
+    color: rgb(112, 53, 107);
+    border-radius: 19px;
+    width: 250px;
+   
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.rrr img{
+    display: flex;
+    align-content: end;
+    margin-left: 190px;
+    border-radius: 29px;
+    width: 410px;
+    margin-top: 60px;
+}
+.p{
+    font-size: 34px;
+    font-style: italic;
+    font-weight: bold;
+
+}
+.atn{
+    color: rgb(5, 4, 5);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    background-color: palevioletred;
+    border: none;
+    padding: 10px 32px;
+    display: inline-block;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    margin: 15px 1px;
+    text-decoration: none;
+    border-radius: 20px;
+    border-color: #c4abab;
+
+}
+.li{
+    margin-bottom: 40px;
+}
+.ox{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none; 
+    
+}
+.ox li a{
+    text-decoration: none;
+    font-weight: bold;
+}
+.p{
+    margin-bottom: 15px;
+}
+.x{
+    display: flex;
+    position: static;
+
+}
+.logo{
+    position: relative;
+    margin-right: 20px;
+    font-weight: bolder;
+    color: pink;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.logo h3{
+    font-size: 29px;
+}
+.nan{
+    position: relative;
+    top: 0;
+    left: 0;
+
+    padding: 18px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 5px 15px;
+    z-index: 100;
+}
+.foot img{
+    display: inline-block;
+    padding: 50px;
+    padding-top: 10px;
+    justify-content: space-around;
+}
+
